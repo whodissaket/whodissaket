@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **travelhoy**
 
-- 🌱 I’m currently learning **Flutter ,UI/UX**
+- 🌱 I’m currently learning **Next.js , Typescript ,UI/UX**
 
 - 💬 Ask me about **React ,Node**
 
