@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saket Nandanwar</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whodissaket&label=Stalker%20No.&color=4782f0&style=flat-square" alt="whodissaket" /> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=whodissaket&show_icons=true&locale=en&layout=compact" alt="whodissaket" /></p>
 
 - 🔭 I’m currently working on **rentdeck and portofolio**
 
@@ -26,6 +25,7 @@
 
 
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=whodissaket&show_icons=true&locale=en&layout=compact" alt="whodissaket" /></p>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=whodissaket&show_icons=true&theme=dark&locale=en" alt="whodissaket" /></p>
