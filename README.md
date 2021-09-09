@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whodissaket&label=Stalker%20No.&color=4782f0&style=flat-square" alt="whodissaket" /> </p>
 
 
-- 🔭 I’m currently working on **rentdeck and portofolio**
+- 🔭 I’m currently working on **rentdeck and greendoors**
 
 - 🌱 I’m currently learning **Typescript,Nextjs,UI/UX**
 
