@@ -8,7 +8,7 @@
 
 - 🤝 I’m looking for help with **Flutter**
 
-- 💬 Ask me about **React ,Node** and **Anime**
+- 💬 Ask me about **React ,Node**
 
 - 📫 How to reach me **saketnandanwar@gmail.com**
 
