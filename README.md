@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Typescript,Nextjs,UI/UX**
 
-- 🤝 I’m looking for help with **Flutter**
+- 🤝 I’m looking for help with **Prdouct Management**
 
 - 💬 Ask me about **React ,Node**
 
