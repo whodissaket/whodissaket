@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **rentdeck and greendoors**
 
-- 🌱 I’m currently learning **Typescript,Nextjs,UI/UX**
+- 🌱 I’m currently learning **AWS,UI/UX**
 
 - 🤝 I’m looking for help with **Devops**
 
